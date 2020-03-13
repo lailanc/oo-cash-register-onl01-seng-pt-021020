@@ -1,1 +1,10 @@
-
+class Cash Regsiter
+  
+  
+  
+  
+  
+  
+  
+  
+end 
