@@ -1,4 +1,4 @@
-class Cash Regsiter
+class CashRegsiter
   
   
   
