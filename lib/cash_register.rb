@@ -26,7 +26,7 @@ end
 end 
 
 def void_last_transaction
-  @toatl -= @last item 
+  @toatl -= @lastitem 
 end 
 
 end 
